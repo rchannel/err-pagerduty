@@ -1,5 +1,5 @@
 from errbot import BotPlugin, botcmd
-from errbot.utils import get_sender_username
+from errbot.utils import msg.frm
 from operator import itemgetter
 from urllib2 import HTTPError
 from datetime import datetime, timedelta
